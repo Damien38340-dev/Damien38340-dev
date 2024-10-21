@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Damien
 
-<!--
-**Damien38340-dev/Damien38340-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about web development, app develoment, game development, and learning new technologies.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Technologies:
+- **Languages**: Java, Vue.js, Blade
+- **Frameworks**: [Vue](https://vuejs.org/), [Spring Boot](https://spring.io/projects/spring-boot)
+- **Projects**:
+  - 🌱 [Spiruline Website](https://github.com/Damien38340-dev/Spiruline-Website) - A Vue.js web project.
+  - 🎲 [Donjons et Dragons](https://github.com/Damien38340-dev/Donjons-et-dragons) - A Java-based project.
+  - 🛒 [Shop Fruits and Veggies](https://github.com/Damien38340-dev/Shop-Fruits-And-Veggies) - E-commerce site.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach me:
+- LinkedIn: [Your LinkedIn Profile](#)
+- GitHub: [Damien38340-dev](https://github.com/Damien38340-dev)
+

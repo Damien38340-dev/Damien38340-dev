@@ -32,13 +32,30 @@ I'm a motivated learner currently undergoing training in software development. I
 **Methodologies & Design**  
 <img src="https://img.shields.io/badge/Agile-61DAFB?style=flat-square&logo=agile&logoColor=white" alt="Agile"> <img src="https://img.shields.io/badge/UX%2FUI-FF4088?style=flat-square&logo=adobe-xd&logoColor=white" alt="UX/UI">
 
+## 🚀 Projects
 
+### 🌿 [Make It Grow – Vineyard Management App](https://darling-lily-98e101.netlify.app/)
+A web application to help vineyard owners manage their land with weather-based recommendations.  
+- **Frontend**: [Angular App](https://github.com/Damien38340-dev/viticulture-frontend)  
+- **Backend**: [Spring Boot API](https://github.com/Damien38340-dev/viticulture-backend)  
+- **Live Demo**: [Make It Grow – Netlify](https://darling-lily-98e101.netlify.app/)
 
-- **Projects**:
-  - 🌱 **[Spiruline Website](https://github.com/Damien38340-dev/Spiruline-Website)** - Web application using **JavaScript** and **Vue.js**.
-  - 🎲 **[Donjons et Dragons](https://github.com/Damien38340-dev/Donjons-et-dragons)** - Role-playing game simulator built with **Java**.
-  - 🛒 **[Shop Fruits and Veggies](https://github.com/Damien38340-dev/Shop-Fruits-And-Veggies)** - E-commerce site using **PHP** and **Laravel**.
+---
 
+### 🌱 [Spiruline Website](https://github.com/Damien38340-dev/Spiruline-Website)
+A showcase website for a local spirulina producer.  
+- **Technologies**: HTML, CSS, JavaScript, Vue.js
+---
+
+### 🎲 [Dungeons and Dragons Console Game](https://github.com/Damien38340-dev/Donjons-et-dragons)
+A console-based game inspired by D&D with turn-based combat, inventory, and random events.  
+- **Technologies**: Java (OOP, CLI)
+
+---
+
+### 🛒 [Shop Fruits and Veggies](https://github.com/Damien38340-dev/Shop-Fruits-And-Veggies)
+An e-commerce platform for local fruits and vegetables.  
+- **Technologies**: PHP, Laravel  
 
 ## 📫 Reach me:
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/damien-lobato-38401418a/)

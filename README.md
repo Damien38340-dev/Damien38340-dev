@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Damien
 
-I'm a motivated learner currently undergoing training in software development. I’m passionate about web, app and game development. I’m always eager to explore new technologies. 
+Freshly certified Application Designer & Developer. 
 
-*I’m actively seeking a 12-month work-study program to apply and expand my skills in a real-world environment.*
+Currently building a full-stack quoting tool for the industrial sector : Java / Spring Boot, TypeScript / Vue.js, MariaDB, Docker, Nginx, Gitea Actions. 
+
+Driven by creativity and problem-solving. 
+
+Open to new opportunities.
 
 ## 🔧 Skills & Technologies:
 

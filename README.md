@@ -54,7 +54,7 @@ Also: REST API design, hexagonal architecture, MVVM, unit and integration testin
 
 These were built during my Application Designer & Developer training (RNCP level 6).
 
-### 🌿 Make It Grow — Vineyard Management App
+### 🌿 Make It Grow - Vineyard Management App
 A web application helping vineyard owners manage their land with weather-based recommendations. Team project, 6 months.
 Angular front end · Spring Boot API
 [Frontend](https://github.com/Damien38340-dev/viticulture-frontend) · [Backend](https://github.com/Damien38340-dev/viticulture-backend)
